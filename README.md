@@ -1,0 +1,1 @@
+# denisvaghasia-Reteriving_data_from_each_table_column_php
